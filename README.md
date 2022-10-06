@@ -1,3 +1,2 @@
 # CS61C
-Record the code written by self-study CS61C
-# sp22-lab
+Record the code written by CS61C
