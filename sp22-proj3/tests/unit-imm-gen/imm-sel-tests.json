@@ -1,8 +1,0 @@
-{
-    "imm-gen-b-type": ["B", "B"],
-    "imm-gen-i-type": ["I", "I"],
-    "imm-gen-i-type-shift": ["I", "I", "I"],
-    "imm-gen-j-type": ["J", "J"],
-    "imm-gen-s-type": ["S", "S"],
-    "imm-gen-u-type": ["U", "U"]
-}
